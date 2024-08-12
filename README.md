@@ -1,2 +1,3 @@
 # tic-tac-toe
- a small tic-tac-toe game
+
+Building an interactive tic-tac-toe game via offifial React Docs.
